@@ -17,5 +17,5 @@ WebUI.setText(findTestObject(null), 'azza')
 
 WebUI.acceptAlert()
 
-WebUI.authenticate('', '', '', 0)
+WebUI.comment('azza')
 
