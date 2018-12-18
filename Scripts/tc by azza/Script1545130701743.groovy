@@ -17,3 +17,7 @@ WebUI.openBrowser('')
 
 WebUI.setText(findTestObject(null), '')
 
+WebUI.comment('test')
+
+WebUI.setText(findTestObject(null), '')
+
