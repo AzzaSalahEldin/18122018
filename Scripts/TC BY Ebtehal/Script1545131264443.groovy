@@ -17,3 +17,5 @@ WebUI.setText(findTestObject(null), 'azza')
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert()
+
