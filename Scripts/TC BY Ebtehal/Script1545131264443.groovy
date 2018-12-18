@@ -15,3 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.setText(findTestObject(null), '')
 
+WebUI.click(findTestObject(null))
+
+WebUI.comment('asmaa')
+
